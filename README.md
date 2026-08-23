@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+##                         .___                    
+__________________     __| _/____   ____ ______  
+\____ \_  __ \__  \   / __ |/ __ \_/ __ \\____ \ 
+|  |_> >  | \// __ \_/ /_/ \  ___/\  ___/|  |_> >
+|   __/|__|  (____  /\____ |\___  >\___  >   __/ 
+|__|              \/      \/    \/     \/|__|    
 # 💫 About Me:
 🔧 Embedded Systems: ESP32/ESP32-S3, Arduino, STM32, Raspberry Pi<br>🤖 AI: Local AI, AI assistants, MCP, voice assistants<br>🚁 Robotics: Drones, RC systems, motor controllers<br>💻 Software: Python, C/C++, JavaScript/TypeScript, React, Next.js<br>🌐 Web: Full-stack websites and engineering/project blogs<br>📡 Hardware: Sensors, wireless modules, custom PCBs/electronics<br>🚀 Long-term direction: Aerospace, AI, embedded systems and advanced computing<br>😎aim-inventor
 
